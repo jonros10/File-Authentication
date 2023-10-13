@@ -1,5 +1,3 @@
-//TODO: Complete java docs and code in missing spots.
-
 /**
  * This class is used to store each element in the Authentication Pairs Route to Root (APRR).
  * Task 2: You are required to develop the constructor and the set and get methods of the leftSibling and rightSibling instance variables of this class.
