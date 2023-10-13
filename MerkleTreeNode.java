@@ -1,4 +1,3 @@
-//TODO: Complete java docs and code in missing spots.
 //This class is used to represent nodes in the Merkle Tree.
 //Task 1: You are required to develop the constructor and the set and get methods of all the instance variables of this class.
 
